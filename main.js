@@ -34,7 +34,8 @@ document.addEventListener("DOMContentLoaded", function () {
         // Gantikan dengan logika validasi Anda
         var users = [
             { username: "dwynbla", password: "bocil1", allowedPage: "dwy.html" },
-            { username: "user2", password: "pass2", allowedPage: "b.html" },
+            { username: "ranaputri", password: "desain2", allowedPage: "rana.html" },
+            { username: "dindinsyf", password: "desain1", allowedPage: "dindin.html" },
             // ... tambahkan lebih banyak pengguna
         ];
 
