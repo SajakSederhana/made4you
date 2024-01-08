@@ -36,6 +36,7 @@ document.addEventListener("DOMContentLoaded", function () {
             { username: "dwynbla", password: "bocil1", allowedPage: "dwy.html" },
             { username: "ranaputri", password: "desain2", allowedPage: "rana.html" },
             { username: "dindinsyf", password: "desain1", allowedPage: "dindin.html" },
+            { username: "rachmatt", password: "lilbro", allowedPage: "matt.html" },
             // ... tambahkan lebih banyak pengguna
         ];
 
